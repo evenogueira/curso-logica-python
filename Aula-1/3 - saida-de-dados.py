@@ -1,0 +1,7 @@
+ #print
+
+#sep
+
+#end
+
+#fstring

@@ -1,0 +1,5 @@
+ #numerico
+
+#string
+
+#booleanos
