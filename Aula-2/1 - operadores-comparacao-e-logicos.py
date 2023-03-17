@@ -9,16 +9,16 @@ a = 10
 # < menor que
 # > maior que
 
-#resultado = x != y
-#resultado2 = z == y
-#print(resultado2)
+resultado = x != y
+resultado2 = z == y
+print(resultado2)
 
 #operadores logicos
 #and
-#print(5 < 10 and 1 > 10)
+print(5 < 10 and 1 > 10)
 
 #or
-#print(5 > 10 or 1 > 10)
+print(5 > 10 or 1 > 10)
 
 #not
 print(not(10 < 5))
